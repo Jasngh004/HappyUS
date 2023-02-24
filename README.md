@@ -7,7 +7,7 @@ Happy US is the complete solution for todays stressed generation that comes with
 
 "BEST DAY by taylor swift <3"
 
-##Zomato ping
+## Zomato ping
 
 "Bored? we got you with a roll so just rollback :)"
 
