@@ -1,0 +1,58 @@
+body {
+    background: url("https://img.freepik.com/free-vector/people-with-funny-happy-emojis-illustration_53876-59076.jpg?w=740&t=st=1677250960~exp=1677251560~hmac=c06d0f904657c1c425976fe991f024c9d569e3f45182135ecc51127145321742") center / cover no-repeat;
+        height: 100vh;
+        margin: 0;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .menu-bar {
+        border-radius: 25px;
+        height: fit-content;
+        display: inline-flex;
+        background-color:  white/*rgba(0, 0, 0, .4)*/;
+        -webkit-backdrop-filter: blur(10px);
+      backdrop-filter: blur(10px);  
+        align-items: center;
+        padding: 0 10px;
+        margin: 50px 0 0 0;
+    }
+
+ .menu-item{
+            list-style: none;
+            color: black;
+            font-family: sans-serif;
+            font-weight: bold;
+            padding: 12px 16px;
+            margin: 0 8px;
+            position: relative;
+            cursor: pointer;
+            white-space: nowrap;
+        }
+
+
+            .menu-item::before {
+                content: " ";
+                position: absolute;
+                top: 0;
+                left:0;
+                height:100%;
+                width: 100%;
+                z-index:-1;
+                transition: .2s;
+                border-radius: 25px;
+            }
+                
+            
+            
+             .menuitem:hover {
+                    color: black;
+            } 
+        
+            .menu-item:hover::before {
+                color: black;
+              /*  background: linear-gradient(to bottom, #e8edec, #d2d1d3);*/
+            background: linear-gradient(to bottom, white, whitesmoke);
+                box-shadow: 0px 3px 20px 0px black;
+                transform: scale(1.2);
+              }
