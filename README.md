@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# HAPPY US
+Happy US is the complete solution for todays stressed generation that comes with the personal dashboard with music food theme and everything what makes you happy and other is journal option also to type down each and every stage of your life to be happy and keep smiling :)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## Spotify play 
+
+"BEST DAY by taylor swift <3"
+
+## Zomato ping
+
+"Bored? we got you with a roll so just rollback :)"
 
 ### `npm start`
 
