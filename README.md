@@ -11,6 +11,9 @@ Happy US is the complete solution for todays stressed generation that comes with
 
 "Bored? we got you with a roll so just rollback :)"
 
+## Random Shitting day 
+"curse it down to jounral!!!"
+
 ### `npm start`
 
 Runs the app in the development mode.\
