@@ -4,14 +4,32 @@ import './about.css';
 function About(){
     return(
         <>
-        <div className='conatiner'>
-            <div className='text-box'>Everything about middle school, high school, and college is so much more competitive than it was when we were growing up. Heck, I know middle schoolers who are stressing out about getting into college. Teenagers today feel relentless pressure to perform and stand out in every aspect of their lives. Not just academically, but in sports, volunteering, internships and jobs, and extracurricular activities.
+        <div className='about'>
+           
+            <div className='text-box'>
+              Hello hello <br></br>
+              Happy US is the complete solution for todays stressed generation that comes with the
+               personal dashboard with music food theme and everything what makes you happy and other
+                is journal option also to type down each and every stage of your life to be happy and 
+                keep smiling.
+                <br></br> <br/>
+                Happy US is the complete solution for todays stressed generation that comes with the
+               personal dashboard with music food theme and everything what makes you happy and other
+                is journal option also to type down each and every stage of your life to be happy and 
+                keep smiling.<br/> <br/>
+                Happy US is the complete solution for todays stressed generation that comes with the
+               personal dashboard with music food theme and everything what makes you happy and other
+                is journal option also to type down each and every stage of your life to be happy and 
+                keep smiling.<br/> <br/>
+                Happy US is the complete solution for todays stressed generation that comes with the
+               personal dashboard with music food theme and everything what makes you happy and other
+                is journal option also to type down each and every stage of your life to be happy and 
+                keep smiling.
 
-They’re constantly being pushed to take rigorous classes (after all, if they don’t they won’t get into a “good” college), get involved in clubs (not just one they’re passionate about, but two or three or even more), participate in volunteer work, land an internship and get a job that looks good on a college resume – all so they are perfectly poised competitively for the next stage of their life.
-
-</div>
+            </div>
+            
             <div className='video-box'>
-    
+                   
             </div>
 
         </div>

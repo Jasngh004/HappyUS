@@ -1,15 +1,24 @@
-/* body {
-    background-image: url(''); 
-    height: 100vh;
-    margin: 0;
+body {
+        height: 100vh;
+   margin: 0;
     display: flex;
    justify-content: center;
     background-repeat: no-repeat;
     background-size: cover;
-} */
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
 
-.container{
-    display: flex;
-    flex-direction: row;
-    margin: 25px;
+.about{
+    margin-top: 173px;
+    background-image: url('https://img.freepik.com/premium-vector/conflicts-work-team-with-feeling-managing-conflict-meetings-tension-conflict-business-people-standing-emotional_327176-1482.jpg?w=740');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-box{
+    padding-top:100px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 1.6rem;
 }
