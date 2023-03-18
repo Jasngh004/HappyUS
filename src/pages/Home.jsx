@@ -10,6 +10,7 @@ function Home(){
         <Navbar/>
         <HomeBody/>
         <About/>
+        <Footer/>
    
         
       

@@ -25,11 +25,18 @@ function About(){
                personal dashboard with music food theme and everything what makes you happy and other
                 is journal option also to type down each and every stage of your life to be happy and 
                 keep smiling.
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
 
             </div>
             
             <div className='video-box'>
-                   
+
             </div>
 
         </div>

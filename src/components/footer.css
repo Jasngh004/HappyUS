@@ -1,0 +1,66 @@
+body {
+    height: 100vh;
+margin: 0;
+display: flex;
+justify-content: center;
+background-repeat: no-repeat;
+background-size: cover;
+box-sizing: border-box;
+overflow-x: hidden;
+}
+
+
+.box{
+    background-color: black;
+    padding: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.part1{
+    width: 45%;
+}
+.p1-head{
+    color: white;
+    font-size: 2rem;
+    font-style: italic;
+    font-weight: bold;
+}
+.p1-text{
+    color: white;
+    font-size : 1rem;
+    width: 100%
+    
+}
+.part2{
+    margin-left: 20px;
+margin-top: 68px;
+    width:15%
+}
+.p2-links{
+    color: white;
+    
+}
+.part3{
+    margin-left: 20px;
+    color: white;
+    margin-top: 68px;
+    width: 20%;
+}
+.p3-love{
+    color: white;
+    text-decoration: none;
+    font-style: italic;
+
+}
+
+.part4{
+    margin-top: 68px;
+    width: 20%;
+}
+
+.handle{
+    height: 35px;
+    width: 35px;
+    cursor: pointer;
+}

@@ -11,8 +11,13 @@ body {
 }
 
 /*Cards Styling */
+.cards{
+  padding: 40px;
+}
 .text1{
+  justify-content: center;
   font-size: 2rem;
+  margin-left: 245px;
   font-weight: bold;
   font-style: italic;
   color: black;
