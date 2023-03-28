@@ -1,28 +1,25 @@
-body {
-    background-image: url('https://img.freepik.com/free-photo/diverse-people-holding-happy-emoticons_53876-148196.jpg?w=900&t=st=1678986362~exp=1678986962~hmac=2e3c9f5fca119bc8c5476df10ee3dabde20089022bfa03a2a65d0d162d8fcbd5');
-    height: 100vh;
-   margin: 0;
-    display: flex;
-   justify-content: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    box-sizing: border-box;
-    overflow-x: hidden;
-}
 
+
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+.home{
+  background-image: url('https://img.freepik.com/premium-vector/smile-logo-template_8163-40.jpg?w=740');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
 /*Cards Styling */
 .cards{
-  padding: 40px;
+  justify-content: center;
+  padding-left: 20px;
 }
 .text1{
-  justify-content: center;
-  font-size: 2rem;
-  margin-left: 245px;
-  font-weight: bold;
-  font-style: italic;
-  color: black;
-  margin-top:-25px;
-  margin-bottom : -50px;
+  margin: 30px;
+  margin-bottom: -70px;
+    font-size: 2.5rem;
+    font-weight: bold;
+    font-family: 'Rampart One', cursive;
+    color: black;
 }
 
 .carousel {

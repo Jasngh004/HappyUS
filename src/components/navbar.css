@@ -1,12 +1,13 @@
-body {
+/* body {
         height: 100vh;
         margin: 0;
         display: flex;
         justify-content: center;
     }
-    
+     */
     .menu-bar {
         border-radius: 25px;
+        border: 1px solid black;
         height: fit-content;
         display: inline-flex;
         background-color:  white/*rgba(0, 0, 0, .4)*/;
@@ -15,6 +16,7 @@ body {
         align-items: center;
         padding: 0 10px;
         margin: 50px 0 0 0;
+        margin-left: 40px;
     }
 
  .menu-item{

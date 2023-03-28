@@ -1,4 +1,4 @@
-body {
+/* body {
         height: 100vh;
    margin: 0;
     display: flex;
@@ -7,15 +7,14 @@ body {
     background-size: cover;
     box-sizing: border-box;
     overflow-x: hidden;
-}
+} */
 
 .about{
     margin-top: 95px;
-    background-image: url('https://img.freepik.com/premium-vector/conflicts-work-team-with-feeling-managing-conflict-meetings-tension-conflict-business-people-standing-emotional_327176-1482.jpg?w=740');
+    background-image: url('https://img.freepik.com/premium-vector/smile-logo-template_8163-40.jpg?w=740');
     background-repeat: no-repeat;
     background-size: cover;
-      z-index: 0.5;
-}
+  }
 
 .text-box{
     padding-top:100px;

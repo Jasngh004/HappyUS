@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tillana:wght@500&display=swap');
+
+.d-head{
+    background-image: url('https://img.freepik.com/premium-vector/smile-logo-template_8163-40.jpg?w=740');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+.d-down{
+    background-image: url('https://img.freepik.com/premium-vector/smile-logo-template_8163-40.jpg?w=740');
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.h1{
+    margin: 30px;
+    font-size: 5.5rem;
+    font-weight: bold;
+    font-family: 'Rampart One', cursive;
+    color: black;
+}
+
+.d-text{
+    text-align: center;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-family: 'Tillana', cursive;
+   margin:0px;
+    color: black;
+    
+}
+
+.dd-text{
+    text-align: center;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-family: 'Tillana', cursive;
+margin: 0px;
+    color: black;
+   
+}

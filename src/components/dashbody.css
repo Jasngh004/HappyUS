@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Tillana:wght@500&display=swap');
+
+.dbody{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+   background-image: url('https://img.freepik.com/premium-vector/smile-logo-template_8163-40.jpg?w=740');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.dbox{
+    height: 45%;
+    width: 40%;
+    background-color: white;
+    margin:30px;
+    border-radius: 15px;
+    border:3px solid black;
+}
+
+.dtitle{
+    font-size: 1rem;
+    margin: 20px;
+    font-family: 'Tillana', cursive;
+  font-style: italic;
+
+}
+
+.dcontent{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}

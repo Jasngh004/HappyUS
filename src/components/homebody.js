@@ -5,7 +5,7 @@ import './homebody.css'
 function HomeBody(){
     return (
         <>
-        <div classname="homeb">
+        <div classname="home">
            <div className='text1'>
              <h1>How was your day today?</h1>
            </div>

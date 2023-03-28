@@ -5,7 +5,7 @@ function Footer(){
     return(
         <>
         <footer>
-        <div className='box'>
+        <div className='fbox'>
             <div className='part1'>
                 <h2 className='p1-head'>Lets Connect</h2>
                 <p className='p1-text'>Happy US is the complete solution for todays stressed generation that comes with the 

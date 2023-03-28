@@ -1,6 +1,8 @@
-import Food from "../components/food.js";
+import Body from "../components/dashbody.js";
+import Head from "../components/dashhead.js";
+import Down from "../components/dashdown.js";
 import Footer from "../components/footer.js";
-import Music from "../components/music.js";
+
 import Navuser from "../components/navuser.js";
 
 
@@ -8,8 +10,11 @@ function Dashboard(){
     return(
         <>
         <Navuser/>
-        <Food/>
-        <Music/>
+        <Head/>
+        <Body/>
+        <Down/>
+        
+       
         <Footer/>
         </>
     )
