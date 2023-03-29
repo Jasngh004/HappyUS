@@ -1,10 +1,11 @@
-/* body {
-        height: 100vh;
-        margin: 0;
-        display: flex;
+body {
+     
         justify-content: center;
+        background-image: url('https://img.freepik.com/premium-vector/smile-logo-template_8163-40.jpg?w=740');
+        background-repeat: no-repeat;
+        background-size: cover;
     }
-     */
+    
     .menu-bar {
         border-radius: 25px;
         border: 1px solid black;
