@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Routes, HashRouter } from "react-router-dom";
 import Login from './pages/Login';
 import Dashboard from './pages/Dashboard';
 import Home from './pages/Home';
+import Confused from './pages/Confused';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Route path="/web" element={<Home />}/>
         <Route path="/login" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard/>}/>
+        <Route path="/confused" element={<Confused/>} />
         
       {/* </Route> */}
     </Routes>
