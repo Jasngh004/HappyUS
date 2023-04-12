@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Tillana:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+.entry{
+  display: flex;
+
+  flex-direction: column;
+}
+
+.h1{
+    margin: 30px;
+    font-size: 5.5rem;
+    font-weight: bold;
+    font-family: 'Rampart One', cursive;
+    color: black;
+}
+
+.entry-title{
+    font-size: 2rem;
+    margin: 20px;
+    font-family: 'Tillana', cursive;
+  font-style: italic;
+
+}
+.entry-box{
+    height: 100%;
+    width: 90%;
+}
+.entry-box input{
+    width: 100%;
+    height: 200px;
+    padding: 16px;
+    background-color: #fcd912;
+    border: 2px soild black;
+    border-radius: 16px;
+    font-size: 1rem;
+    font-family: 'Tillana';
+    margin: 20px;
+    
+}
+.name-box input{
+    width: 60%;
+    height: 20px;
+    padding: 16px;
+    background-color: #fcd912;
+    border: 2px soild black;
+    border-radius: 16px;
+    font-size: 1rem;
+    font-family: 'Tillana', cursive;
+    margin: 20px;
+    
+
+}
+
+.entry-btn{
+    height: 40px;
+    width: 100px;
+    background-color: #fcd912;
+    border: 2px soild black;
+    border-radius: 16px;
+    font-size: 0.8rem;
+    font-family: 'Tillana', cursive;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+.past{
+    display: flex;
+    flex-direction: row;
+}
+
+.past-box{
+    height: 45%;
+    width: 40%;
+    background-color: white;
+    margin:30px;
+    border-radius: 15px;
+    border:3px solid black;
+}
+
+.past-title{
+    font-size: 1rem;
+    margin: 20px;
+    font-family: 'Tillana', cursive;
+  font-style: italic;
+
+}
+
+.past-content{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
