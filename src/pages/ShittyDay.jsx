@@ -1,4 +1,4 @@
-import Navuser from '../components/navuser.js';
+import Navuser from '../components/navuser.jsx';
 import ShittyWrite from '../components/shittywrite.js';
 import Footer from '../components/footer.js';
 

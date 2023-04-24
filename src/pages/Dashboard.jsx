@@ -3,7 +3,7 @@ import Head from "../components/dashhead.js";
 import Down from "../components/dashdown.js";
 import Footer from "../components/footer.js";
 
-import Navuser from "../components/navuser.js";
+import Navuser from "../components/navuser.jsx";
 
 
 function Dashboard(){
